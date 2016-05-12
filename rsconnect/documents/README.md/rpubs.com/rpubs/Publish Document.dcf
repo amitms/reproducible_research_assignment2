@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/180430/93f0f718b4734ae1806b918b8f7215c0
+url: http://rpubs.com/amitms/180430
+when: 1463058359.8908
