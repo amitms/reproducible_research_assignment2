@@ -134,3 +134,8 @@ dev.copy(png,"plot2.png",width=400,height=400)
 dev.off()
 ```
 <p><a href="https://github.com/amitms/reproducible_research_assignment2/blob/master/plot2.png" target="_blank"><img src="https://github.com/amitms/reproducible_research_assignment2/blob/master/plot2.png" alt="plot2.png" style="max-width:100%;"></a> </p>
+
+Flood is the major cause with respect to cost of damage.
+
+###Summary
+From above data and graphs, we found that tornado is the major cause with respect to population health, both for causing fatalities and injuries, while Flood is the major cause with respect to cost of damage.
